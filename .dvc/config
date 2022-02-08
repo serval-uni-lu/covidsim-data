@@ -1,0 +1,7 @@
+[core]
+    remote = idoml-bucket
+['remote "idoml-bucket"']
+    url = s3://covidsim
+    endpointurl = http://idoml.uni.lux:9001
+    access_key_id = covidsim-dvc
+    secret_access_key = covidsim-dvc

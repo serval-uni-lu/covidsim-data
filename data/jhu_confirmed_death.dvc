@@ -1,0 +1,5 @@
+outs:
+- md5: c5b0ce5f5fa866df7973ffdcc5f51b25.dir
+  size: 537632
+  nfiles: 2
+  path: jhu_confirmed_death
